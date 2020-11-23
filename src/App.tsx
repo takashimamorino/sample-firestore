@@ -1,7 +1,6 @@
 import React from "react";
 
 import { db } from "./firebaseConfig";
-import { async } from "q";
 
 function App() {
   const addUser = () => {
